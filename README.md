@@ -5,7 +5,7 @@ This project involves creating a WhatsApp bot that can collect basic patient inf
 ## Demo Video
 ![Demo_video](https://github.com/AnishmMore/whatsapp-healthbot/blob/main/demo_video.mp4)
 ## Architecture
-![Architecture]()
+![Architecture](https://github.com/AnishmMore/whatsapp-healthbot/blob/main/architecture.png)
 ## Libraries Used
 - FastAPI
 - Uvicorn
