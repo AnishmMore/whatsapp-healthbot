@@ -2,8 +2,6 @@
 ## Overview
 This project involves creating a WhatsApp bot that can collect basic patient information and export it in a commonly used digital format such as CSV, Google Sheets, or Excel. This solution aims to simplify the process of digitizing health records using widely accessible technology.
 
-## Demo Video
-![Demo_video](https://github.com/AnishmMore/whatsapp-healthbot/blob/main/demo_video.mp4)
 ## Architecture
 ![Architecture](https://github.com/AnishmMore/whatsapp-healthbot/blob/main/architecture.png)
 ## Libraries Used
